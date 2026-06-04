@@ -1,0 +1,23 @@
+[33mcommit 797706c092b17d584a7455092e97141366fced17[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: James Ashby <jamesashby06@gmail.com>
+Date:   Thu Jun 4 09:39:28 2026 -0400
+
+    I have added the fifth file
+
+[33mcommit 29103781ffcb920d0d6579b161658c8551a8ebda[m
+Author: James Ashby <jamesashby06@gmail.com>
+Date:   Wed Jun 3 17:09:53 2026 -0400
+
+    I have made some changes to the files
+
+[33mcommit c9340c69c09ff1635dd5de190efc38decb82e968[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: JamesAshby17 <155269121+JamesAshby17@users.noreply.github.com>
+Date:   Wed Jun 3 16:47:15 2026 -0400
+
+    Add two.txt with initial content 'two'
+
+[33mcommit d5f05d3215f545e07b91e1ce01ba62ac3ac72fe9[m
+Author: JamesAshby17 <155269121+JamesAshby17@users.noreply.github.com>
+Date:   Wed Jun 3 16:46:40 2026 -0400
+
+    Add one.txt with initial content 'one'
